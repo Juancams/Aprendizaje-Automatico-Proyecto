@@ -13,4 +13,4 @@ _Universidad Rey Juan Carlos, Fuenlabrada._
 * Roxana Nicoleta Aanei - [@RoxanaAN](https://github.com/RoxanaAN/)
 * Juan Carlos Manzanares Serrano - [@Juancams](https://github.com/Juancams/)
 * Marina Gil Pensado - [@marinagilpen](https://github.com/marinagilpen/)
-* Cristian Sánchez Rodriguez - 
+* Cristian Sánchez Rodriguez - [@csanrod](https://github.com/csanrod/)
